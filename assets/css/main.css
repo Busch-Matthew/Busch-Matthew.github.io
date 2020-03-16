@@ -3829,7 +3829,7 @@ input, select, textarea {
 		/* Header */
 
 			#header {
-				display: "";
+				display: none;
 			}
 
 		/* Banner */
